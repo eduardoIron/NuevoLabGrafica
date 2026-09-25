@@ -134,13 +134,13 @@ glfw3.lib;%(AdditionalDependencies)</AdditionalDependencies>
     <ClCompile Include="..\..\..\..\Downloads\Dibujo de Primitivas 2D (1)\Main_Dibujo2D.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Downloads\ModeladoGeometrico\Main_Modelado.cpp" />
     <ClCompile Include="..\..\..\..\Downloads\Proyecciones y transformaciones básicas (1)\Main_P3.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="Main.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="Modelado_Jerarquico.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

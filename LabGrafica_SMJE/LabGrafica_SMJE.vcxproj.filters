@@ -24,7 +24,7 @@
     <ClCompile Include="..\..\..\..\Downloads\Proyecciones y transformaciones básicas (1)\Main_P3.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Downloads\ModeladoGeometrico\Main_Modelado.cpp">
+    <ClCompile Include="Modelado_Jerarquico.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
   </ItemGroup>
