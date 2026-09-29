@@ -18,5 +18,8 @@
     <ClCompile Include="..\..\..\..\Downloads\ModeladoGeometrico\Main_Modelado.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
+    <ClCompile Include="Modelado_Jerarquico.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
