@@ -209,4 +209,3 @@ void Inputs(GLFWwindow* window) {
 	if (glfwGetKey(window, GLFW_KEY_E) == GLFW_PRESS)
 		rotZ += 0.4f;
 }
-
