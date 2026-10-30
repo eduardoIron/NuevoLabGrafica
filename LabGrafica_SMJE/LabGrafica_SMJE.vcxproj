@@ -137,10 +137,10 @@ glfw3.lib;%(AdditionalDependencies)</AdditionalDependencies>
     <ClCompile Include="..\..\..\..\Downloads\Proyecciones y transformaciones básicas (1)\Main_P3.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="fuentesDeLuz.cpp" />
     <ClCompile Include="Main.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="Maquina de estados.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Camera.h" />
